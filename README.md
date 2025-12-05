@@ -1,1 +1,1 @@
-# weeddo-ads
+# mobile-ads-config
